@@ -1,5 +1,4 @@
-DAY2_Linux.md
-:penguin:
+# Introduction to Linux
 ### **Linux**
 - Linux is a kernel.
 
