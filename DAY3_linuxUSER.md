@@ -16,127 +16,116 @@
 👉 **Nmap** is the most famous in these tools. 
 
 ### 2 <u>**Vulnerability Analysis:**</u>
-+ Tools for Finding Vulnerabilities.
-<br/>
+
++ Tools for Finding Vulnerabilities.<br>
 👉 Some of the tools are: 
  <p align="center">
  <img src="./images/day3/2_Vulnerability_Analysis.png" />
 </p>
 
 ### 3 <u>**Web Application Analysis:**</u>
- + Tools for Finding Vulnerabilities and exploits on **websites.**
-<br/>
+
+ + Tools for Finding Vulnerabilities and exploits on **websites.**<br/>
 👉 Some of the tools are: 
  <p align="center">
- <img src="./images/day3/3_Web_Application_Analysis.png
-" />
+ <img src="./images/day3/3_Web_Application_Analysis.png" />
 </p>
 👉 Burpsuite, vega, and web scarab are some most famous tools.
 
 ### 4 <u>**Database Assessment:**</u>
- + Tools for Finding Vulnerabilities and exploits on **Databases.**
-<br/> 
+
+ + Tools for Finding Vulnerabilities and exploits on **Databases.**<br/> 
 👉 Some of the tools are: 
  <p align="center">
- <img src="./images/day3/4_Database_Assessment.png
-" />
+ <img src="./images/day3/4_Database_Assessment.png" />
 </p>
 👉 Sqlmap is the most famous database assessment tool. This ool injects SQL injection for scanning, detecting, and exploitation.
 
 ### 5 <u>**Password Attacks:**</u>
+
 + Tools for exploiting Passwords for login,websites,application,
-windows.
-<br/>
+windows.<br/>
 👉 Some of the tools are: 
  <p align="center">
- <img src="./images/day3/5_%20Password_Attacks.png
-" />
+ <img src="./images/day3/5_%20Password_Attacks.png" />
 </p>
 👉 John the Ripper and Medusa are the most famous tools.
 
 ### 6 <u>**Wireless Attacks:**</u>
- + Tools for exploiting Wireless Systems like wifi, bluetooth.
-<br/>
+
+ + Tools for exploiting Wireless Systems like wifi, bluetooth.<br/>
 👉 Some of the tools are: 
  <p align="center">
- <img src="./images/day3/6_Wireless_Attacks.png
-" />
+ <img src="./images/day3/6_Wireless_Attacks.png" />
 </p>
 👉 Aircrack-ng and Ghost Phisher are the most famous tools.
 
 ### 7 <u>**Reverse Engineering:**</u>
+
  + Tools for exploiting Softwares, Mobile Applications and any
-binary files.
-<br/>
+binary files.<br/>
 👉 Some of the tools are: 
  <p align="center">
- <img src="./images/day3/7_Reverse_Engineering.png
-" />
+ <img src="./images/day3/7_Reverse_Engineering.png" />
 </p>
 👉 Most famous tools are ollydbg and apltools.
 
 ### 8 <u>**Exploitation Tools:**</u>
+
  + Tools for exploiting Softwares, Mobile ,Computers ,websites and
-any things.
-<br/>
+any things.<br/>
 👉 Some of the tools are: 
  <p align="center">
- <img src="./images/day3/8_Exploitation_Tools.png
-" />
+ <img src="./images/day3/8_Exploitation_Tools.png" />
 </p>
 👉 The most famous tool is Metasploit.
 
 ### 9 <u>**Sniffing and Spoofing:**</u>
- + Tools for Listening or hijacking networks.
-<br/>
+
+ + Tools for Listening or hijacking networks.<br/>
 👉 Some of the tools are: 
  <p align="center">
- <img src="./images/day3/9_Sniffing_and_Spoofing.png
-" />
+ <img src="./images/day3/9_Sniffing_and_Spoofing.png" />
 </p>
 👉 The most used tool is Wireshark.
 
 ### 10 <u>**Post Exploitation:**</u>
-+ Tools for Maintaining our access. Used after exploiting a system
-<br/>
+
++ Tools for Maintaining our access. Used after exploiting a system<br/>
 👉 Some of the tools are: 
  <p align="center">
- <img src="./images/day3/10_Post_Exploitation.png
-" />
+ <img src="./images/day3/10_Post_Exploitation.png" />
 </p>
 👉 The most famous tool is Powersploit.
 
 
 ### 11 <u>**Forensics:**</u>
- + Tools for Doing researches and investigate a Cyber Attacks.
-<br/>
+
+ + Tools for Doing researches and investigate a Cyber Attacks.<br/>
 👉 Some of the tools are: 
  <p align="center">
- <img src="./images/day3/11_Forensics.png
-" />
+ <img src="./images/day3/11_Forensics.png" />
 </p>
 👉 The most famous tool is Autopsy, it has also been used by security forces, many judicial and investigating officials.
 
 
 ### 12 <u>**Reporting Tools:**</u>
+
  + Tools for Report preparation. After some forensic you will get  data and you will write report and these tools will help
-you.
-<br/>
+you.<br/>
 👉 Some of the tools are: 
  <p align="center">
- <img src="./images/day3/12_Reporting_Tools.png
-" />
+ <img src="./images/day3/12_Reporting_Tools.png" />
 </p>
 👉 Most famous tools are faraday, Dradis, and Pipal.
 
 
 ### 13 <u>**Social Engineering:**</u>
-+ Tools Used for Social Engineering attacks
-<br/>
+
++ Tools Used for Social Engineering attacks<br/>
 👉 Some of the tools are: 
  <p align="center">
- <img src="./images/day3/13_Social_Engineering.png
-" />
+ <img src="./images/day3/13_Social_Engineering.png" />
 </p>
 👉 The most famous social engineering tool is SET.     
 
@@ -169,8 +158,7 @@ you.
             <li>Command place = _</li>
         </ol> 
 <p align="center">
-<img src="./images/day3/Terminal_Parts.png
-" />
+<img src="./images/day3/Terminal_Parts.png" />
 </p>
 <br/>
  
