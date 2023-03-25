@@ -140,7 +140,7 @@ You can append texts from other files with
         +  Root id = 0
         +  Normal User id start with 1-999
 
-+ The root user have the power to do **💪everything on linux** ,
++ The root user have the power to do **💪everything on linux** .
 + if users want to have a root access they add **sudo** in front of the command .
 
 + **sudo** = superuser do or substitute user do
