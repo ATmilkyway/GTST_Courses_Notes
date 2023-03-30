@@ -170,4 +170,3 @@ program.
       sudo dpkg -r <packagename>
       sudo dpkg -P <packagename>
 
-The Advanced Package Tool (APT) 
