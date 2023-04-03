@@ -34,7 +34,8 @@ However, in the 1990s they were having problems developing kernel. The kernel, w
 + 💡 This is when one of the most famous messages of the computing world was posted:   
 ##
 
-    “Hello, everybody out there using minix – I’m doing a (free) operating system (just a hobby, won’t be big and professional like gnu) for 386(486) AT clones…” – Linus Torvalds; Posting to comp.os.minix; 25 August 1991.
+    “Hello, everybody out there using minix – I’m doing a (free) operating system (just a hobby, won’t be big and professional like gnu)
+    for 386(486) AT clones…” – Linus Torvalds; Posting to comp.os.minix; 25 August 1991.
 
 This is how the **👶 ‘GNU/Linux’** was born. Torvalds had written the kernel of the system and the software used to complete the operating system were of the GNU project. So, the term GNU/Linux is used to express the operating system as the combination of the GNU system with Linux as the kernel.
 
