@@ -109,4 +109,3 @@ On naming the identifier:
      + username and password = key
      + nathan26 & p@$$word = value
 + We use keys to retrieve the respective value. But not the other way around. For example,
-
