@@ -89,7 +89,6 @@ On naming the identifier:
  <img src="./images/day7/Python_keyword.png" />
 </p>  
 
-
 **Lists**
 + List is an ordered collection of similar or different types of items separated by commas and enclosed within brackets [ ].
   + For example, languages = ["Swift", "Java", "Python"]
@@ -109,3 +108,5 @@ On naming the identifier:
      + username and password = key
      + nathan26 & p@$$word = value
 + We use keys to retrieve the respective value. But not the other way around. For example,
+
+
