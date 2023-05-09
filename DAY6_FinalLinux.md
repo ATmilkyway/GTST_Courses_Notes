@@ -119,6 +119,7 @@ Here if you check the file you saved on it have errors only
 + To redirect the error-FREE output
 
         command 1>filename
+        
 So if we redirect our commands output to /dev/null we will get error free result
 command 2> /dev/nul
 
@@ -175,3 +176,5 @@ More commands
     find / -name “linux”
     find /home -perm 777
     find -type f | find -type d
+    
+    
